@@ -1,3 +1,3 @@
 # javaFXNotes
 Testing JavaFX
-![GUI](/menuview.png)
+![GUI](/menuview.jpg)
